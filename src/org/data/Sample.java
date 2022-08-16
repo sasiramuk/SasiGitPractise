@@ -2,11 +2,14 @@ package org.data;
 
 public class Sample {
 
-	private void tc1() {
-		System.out.println("Git started....");
+	public static void main(String[] args) {
+		int a=100;
+		System.out.println(a);
+	}
+	
 
 	}
 	
 	
 	
-}
+
